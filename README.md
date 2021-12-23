@@ -8,9 +8,7 @@
 
 
 ## How to Install - 導入方法
-[Releaseページ](https://github.com/mtytheone/Introduce-VFXGraph/releases)から最新版のunitypackageをダウンロードしてください。
-
-その後、VRCSDK3及びUdonSharpをインストールしたUnityのプロジェクトに、先程ダウンロードしたunitypackageを導入してください。
+このプロジェクトをcloneしてください。
 
 ## License - ライセンス
 このプロジェクト及びソースファイルは **MIT** ライセンスに乗っ取ります。
