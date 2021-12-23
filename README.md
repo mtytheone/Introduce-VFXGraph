@@ -4,7 +4,7 @@
 
 ## About - 概要
 これはVFXGraphの解説記事のために作ったサンプルプロジェクトです。
-解説記事自体は[こちら]()になります。
+解説記事自体は[こちら](https://hatuxes.hatenablog.jp/entry/2021/12/24/012432)になります。
 
 
 ## How to Install - 導入方法
